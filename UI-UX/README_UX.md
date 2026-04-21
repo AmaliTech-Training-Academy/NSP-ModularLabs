@@ -7,15 +7,22 @@ This space contains all modules and lab exercises designed to build strong UI/UX
 
 ## Quick Links
 
-### Module 1: Foundations & Case Studies
+### Module 1: Good User Experience
 - 🧪 [Lab 1: Case Study Analysis](Module-1/Case_Study_Analysis.md)
 - 🧪 [Lab 2: Bad to better redesign](Module-1/Bad_to_better_redesign.md)
 
 ---
 
-### Module 2: Wireframing & Prototyping
+### Module 2: PDLC
 - 🧪 [Lab 1: PDLC](Module-2/PDLC.md) 
 - 🧪 [Lab 2: Feature Launch](Module-2/Feature_launch.md)
+
+---
+
+### Module 3: UX Research
+- 🧪 [Lab 1: Validating Design Assumption](Module-3/Validating_Designs.md) 
+- 🧪 [Lab 2: User Research](Module-3/User_Research.md)
+- 🧪 [Lab 3: Incorporating Research Finding Into Designs](Module-3/Incorporating_Research.md)
 
 ---
 
