@@ -39,6 +39,17 @@ This space contains all modules and lab exercises designed to build strong UI/UX
 
 ---
 
+### Module 7: Responsive Design
+- 🧪 [Lab 1: Understand Responsive Design & Figma's Responsive Tools](Module-7/Responsive.md) 
+
+---
+
+### Module 8: Wireframing
+- 🧪 [Lab 1: Design Library Management](Module-8/LibraryMgt.md) 
+- 🧪 [Lab 2: Building & Documenting a Scalable Design System](Module-8/BuildingDS.md)
+- 🧪 [Lab 3: Accessibility for Chat App](Module-8/Accessibility.md)
+
+---
 ## Overview
 
 The UI/UX track focuses on:
