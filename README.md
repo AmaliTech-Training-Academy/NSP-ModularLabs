@@ -1,5 +1,5 @@
-# GTP-2.0-Labs
-# Training Labs Repository
+# NSP-Labs
+## Training Labs Repository
 
 ## Overview
 This repository contains all lab instructions for the different training tracks under our specialization program. It serves as a centralized resource where trainees can find, follow, and complete practical exercises across various modules.
