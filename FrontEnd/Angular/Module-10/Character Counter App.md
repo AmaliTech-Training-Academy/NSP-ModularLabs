@@ -1,3 +1,4 @@
+# Component Interaction & Lifecycle: Character Counter App
 ## Introduction
 
 In this lab, you will build a **Character Counter Application** that helps users analyze and manage their written text. The app will display character, word, and sentence counts, enforce character limits, and provide real-time feedback using Angular's component communication patterns.
