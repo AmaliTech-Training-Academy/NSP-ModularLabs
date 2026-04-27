@@ -1,13 +1,5 @@
-# Module 3 Specialization
 
----
-
-## Module 3.1: Bank Account Management
-
-**Complexity:** Medium
-**Time Estimate:** 6–8 hours
-**Technology Stack:** Java 21 (LTS), IntelliJ IDEA Community Edition
-
+## Bank Account Management
 ---
 
 ### Project Overview
