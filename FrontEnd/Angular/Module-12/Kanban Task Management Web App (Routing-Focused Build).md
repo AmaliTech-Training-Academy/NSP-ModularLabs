@@ -1,3 +1,4 @@
+# Routing & Navigation: Kanban Task Management Web App (Routing - Focused Build)
 ## Introduction
 
 In this lab, learners will develop a simplified version of a **Kanban Task Management Web App** to apply **Angular Routing and Navigation** concepts.
