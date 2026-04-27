@@ -1,3 +1,4 @@
+# JavaScript Essentials: Character Counter
 ## Learning Objectives
 
 * **DOM Manipulation:** Dynamically update content based on user interactions.
