@@ -2,61 +2,64 @@
 
 ## Objectives
 
-- **Set Up Selenium WebDriver:**  
-  Learn how to install and configure Selenium WebDriver with ChromeDriver for automated browser testing.  
+Set Up Selenium WebDriver:  
 
-- **Implement JUnit 5/TestNG for Test Execution:**  
-  Use JUnit 5 or TestNG annotations to structure test cases effectively.  
+Learn how to install and configure Selenium WebDriver with ChromeDriver for automated browser testing.  
 
-- **Automate a Simple Web Test:**  
-  Write and execute a basic UI test.  
+Implement JUnit 5/TestNG for Test Execution:  
 
-- **Set Up Continuous Integration (CI):**  
-  Configure a CI pipeline using GitHub Actions to automate Selenium tests.  
+Use JUnit 5 or TestNG annotations to structure test cases effectively.  
+
+Automate a Simple Web Test – Write and execute a basic UI test.  
+
+Set up a Continuous Integration (CI) pipeline using GitHub Actions to automate Selenium tests.  
 
 ---
 
-## Project: Selenium WebDriver Setup and Basic UI Testing
+## PROJECT: Selenium WebDriver Setup and Basic UI Testing
+
+---
 
 ## Overview
 
-This project focuses on setting up Selenium WebDriver, creating automated UI tests, applying design patterns like Page Object Model (POM), and integrating Continuous Integration using GitHub Actions.
+Setup and configuration  
+
+Maven / Gradle  
+
+Add Selenium WebDriver and JUnit 5 / TestNG dependencies in the pom.xml  
 
 ---
 
-## 1. Setup and Configuration
+## Basic Automated Test
 
-### Build Tools
-- Maven or Gradle  
-
-### Dependencies
-Add the following dependencies to your `pom.xml`:
-
-- Selenium WebDriver  
-- JUnit 5 or TestNG  
+Launch the Newsletter sign-up form with success message project using Selenium and ChromeDriver  
 
 ---
 
-## 2. Basic Automated Test
+## Implement Page Object Model (POM)
 
-- Launch the **Newsletter Sign-Up Form**  
-- Automate form submission using Selenium WebDriver  
-- Validate successful submission using a success message  
-
----
-
-## 3. Page Object Model (POM)
-
-### Requirements
-
-- Create separate **Page Classes** for each page  
-- Use **locators** to identify UI elements  
-- Implement **Page Factory Pattern** for better structure and maintainability  
+- Create separate Page Classes for each page  
+- Use locators to identify elements  
+- Implement a Page Factory Pattern for better test structure  
 
 ---
 
-## 4. Continuous Integration with GitHub Actions
+## CI Pipeline (GitHub Actions)
 
-### Workflow Setup
+- Create a `.github/workflows/ci.yml` configuration for GitHub Actions  
+- Ensure the workflow is triggered on code push or pull request events  
+- Set up the CI pipeline to automatically install dependencies and run the tests using GitHub Actions  
+- Set up notifications (email or Slack) to notify team of build status (pass/fail)  
+- Ensure GitHub Actions logs include detailed information on test execution  
 
-- Create a workflow file:  
+---
+
+## Grading Scheme
+
+| METRIC | SCORE | TOTAL |
+|--------|-------|-------|
+| Setup and configuration | 15 | |
+| Basic Automated Test using JUnit 5/TestNG | 35 | |
+| Page Object Model (POM) | 20 | |
+| GitHub Actions | 30 | |
+| **TOTAL** | | **100** |
