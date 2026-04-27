@@ -1,3 +1,4 @@
+# Testing: Angular Testing with Jest
 ## Overview
 
 In this lab, learners will extend their **Kanban Task Management Web App** by implementing a robust testing suite using **Jest**.
