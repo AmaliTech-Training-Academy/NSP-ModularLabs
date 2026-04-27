@@ -1,12 +1,12 @@
 # Dockerizing Test Automation for Scalable Test Execution
 
-## Project Overview
+## Project Objectives
 
 In this project, you are to containerize a functional test suite using Docker. Also, you will learn to isolate test environments, remove dependency conflicts, and improve test execution consistency across platforms.
 
 ---
 
-## Objectives
+## Project Description
 
 Understand the purpose and benefits of Docker in QA workflows  
 
