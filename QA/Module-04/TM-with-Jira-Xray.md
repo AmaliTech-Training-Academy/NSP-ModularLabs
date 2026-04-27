@@ -1,6 +1,6 @@
 # Test Management with Jira - Xray
 
-## Objectives
+## Project Objectives
 
 - Develop a comprehensive test plan aligned with project goals and stakeholder expectations, covering scope, objectives, and resources.  
 
