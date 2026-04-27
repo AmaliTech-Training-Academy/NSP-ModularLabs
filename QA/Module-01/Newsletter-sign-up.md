@@ -1,6 +1,6 @@
 # Newsletter Sign-Up Form with Success Message
 
-## Objectives
+## Project Objectives
 
 - Use HTML to structure the form and CSS to style it, ensuring a consistent and accessible design across different browsers.
 - Implement JavaScript for real-time form validation, showing error and success messages dynamically based on user input.
