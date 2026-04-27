@@ -1,11 +1,8 @@
-# Module 4: Database Fundamentals
+# Database Fundamentals
 
 ---
 
-## Module 4.1: Hospital/Healthcare Management System
-
-**Complexity:** Advanced
-**Time Estimate:** 10–12 hours
+## Hospital/Healthcare Management System
 
 ---
 
