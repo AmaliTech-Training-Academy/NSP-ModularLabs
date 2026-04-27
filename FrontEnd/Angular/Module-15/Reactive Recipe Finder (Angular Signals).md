@@ -1,3 +1,4 @@
+# Angular Signals: Reactive Recipe Finder
 ## Introduction
 
 In this lab, learners will build a simplified **Recipe Finder** application using **Angular Signals** to manage reactive state.
