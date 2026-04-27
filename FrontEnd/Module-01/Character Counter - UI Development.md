@@ -1,4 +1,4 @@
-# Character Counter - UI Development
+# UI Essentials: Character Counter
 ## Learning Objectives
 
 * **HTML & CSS Mastery:** Build a pixel-perfect user interface using semantic HTML and modern CSS.
