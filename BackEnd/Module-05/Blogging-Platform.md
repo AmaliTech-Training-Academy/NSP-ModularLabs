@@ -1,12 +1,8 @@
-# Module 5: Spring Web
+# Spring Web
 
 ---
 
-## Module 5.1: Blogging Platform
-
-**Complexity:** Advanced
-**Time Estimate:** 10–12 hours
-
+## Blogging Platform
 ---
 
 ### Project Overview
