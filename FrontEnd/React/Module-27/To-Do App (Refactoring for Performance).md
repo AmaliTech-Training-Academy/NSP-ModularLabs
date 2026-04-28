@@ -1,14 +1,5 @@
 # React Performance Optimization: To Do App
 
-## Introduction
-
-In this lab, you will take the provided legacy React To-Do application and refactor it to meet modern React performance and architectural standards. The existing code contains several anti-patterns that cause inefficient re-renders, unnecessary computations, and poor scalability. Your goal is to transform the application into a high-performance, maintainable, and production ready React application.
-
-Get the project setup from:  
-GitHub - Dacostasolo/learner-code-optimization
-
----
-
 ## Learning Objectives
 
 By the end of this module, you should be able to:
@@ -20,6 +11,13 @@ By the end of this module, you should be able to:
 - Manage expensive computations and derived state efficiently using memoization and custom hooks.  
 - Apply best practices for improving perceived performance and responsiveness in production-ready React applications.  
 
+---
+
+## Introduction
+
+In this lab, you will take the provided legacy React To-Do application and refactor it to meet modern React performance and architectural standards. The existing code contains several anti-patterns that cause inefficient re-renders, unnecessary computations, and poor scalability. Your goal is to transform the application into a high-performance, maintainable, and production ready React application.
+
+### Get the project setup from :  [GitHub - Dacostasolo/learner-code-optimization](https://github.com/Dacostasolo/learner-code-optimization)
 ---
 
 ## Lab Requirements
