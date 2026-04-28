@@ -17,7 +17,7 @@ By the end of this project, learners will be able to:
 
 ---
 
-### Project Description
+### Project Overview
 
 This stage of the Hospital Management System focuses on building the data layer and persistence logic that will power the full application in later modules. Students will design a relational database for a hospital management system, implement the schema using SQL, and integrate it with a JavaFX application that performs essential operations — including patient registration, appointment scheduling, medical records management, and reporting.
 
