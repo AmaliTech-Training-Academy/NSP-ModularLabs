@@ -1,6 +1,5 @@
 # Spring Web
 
----
 
 ## Blogging Platform
 ---
